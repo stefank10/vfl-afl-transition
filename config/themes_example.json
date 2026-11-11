@@ -1,0 +1,17 @@
+{
+  "_about": "Development themes agreed with each player's development coach. Each theme names the codes that measure it and a target. Edit per player, per block.",
+  "Player A": {
+    "coach": "Development coach",
+    "themes": [
+      {"name": "Kick decision-making", "good": ["Kick Effective"], "bad": ["Kick Ineffective", "Turnover"], "target": 0.70},
+      {"name": "Pressure off the ball", "count": ["Pressure Act", "Tackle"], "target_count": 8}
+    ]
+  },
+  "Player B": {
+    "coach": "Development coach",
+    "themes": [
+      {"name": "Winning the contest", "good": ["Contest Won", "Ground Ball Get"], "bad": ["Contest Lost"], "target": 0.55},
+      {"name": "Defensive positioning", "good": ["Positioning Good", "Spoil / 1%"], "bad": ["Positioning Poor"], "target": 0.65}
+    ]
+  }
+}

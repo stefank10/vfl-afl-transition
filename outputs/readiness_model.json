@@ -1,0 +1,54 @@
+{
+  "n": 142,
+  "n_established": 39,
+  "debut_seasons": "2019-2024",
+  "established_rule": "20+ AFL games in debut season and the next",
+  "auc_all_stats": [
+    0.5291624149659864,
+    0.35714285714285715,
+    0.6738095238095237
+  ],
+  "auc_disposals_only": [
+    0.4904264455782314,
+    0.28549107142857144,
+    0.6493622448979591
+  ],
+  "headline_stat": "disposals",
+  "auc_headline": [
+    0.4904264455782314,
+    0.28549107142857144,
+    0.6493622448979591
+  ],
+  "by_role": [
+    {
+      "role": "General defender",
+      "n": 43,
+      "rate": 0.256
+    },
+    {
+      "role": "General forward",
+      "n": 34,
+      "rate": 0.412
+    },
+    {
+      "role": "Key defender",
+      "n": 15,
+      "rate": 0.2
+    },
+    {
+      "role": "Key forward",
+      "n": 7,
+      "rate": 0.429
+    },
+    {
+      "role": "Midfielder",
+      "n": 36,
+      "rate": 0.222
+    },
+    {
+      "role": "Ruck",
+      "n": 7,
+      "rate": 0.0
+    }
+  ]
+}

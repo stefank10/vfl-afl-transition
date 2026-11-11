@@ -1,0 +1,5 @@
+data/
+__pycache__/
+.pytest_cache/
+outputs/packs/
+.DS_Store

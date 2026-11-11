@@ -1,0 +1,63 @@
+{
+  "tog_adjusted": false,
+  "stats": [
+    "disposals",
+    "kicks",
+    "handballs",
+    "marks",
+    "tackles",
+    "inside50s",
+    "rebound50s",
+    "clearances",
+    "hitouts",
+    "goals",
+    "contested_poss",
+    "uncontested_poss",
+    "score_involvements",
+    "intercepts",
+    "contested_marks"
+  ],
+  "core_stats": [
+    "disposals",
+    "kicks",
+    "handballs",
+    "marks",
+    "tackles",
+    "inside50s",
+    "rebound50s",
+    "clearances",
+    "hitouts",
+    "goals"
+  ],
+  "recent_stats": [
+    "contested_poss",
+    "uncontested_poss",
+    "score_involvements",
+    "intercepts",
+    "contested_marks"
+  ],
+  "n_pairs": 973,
+  "n_players": 572,
+  "n_pairs_adjacent": 771,
+  "seasons": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "eq_season": 2026,
+  "n_listed_vfl": 282,
+  "validation_n": 131,
+  "median_gain_vs_raw": 0.4280000689219944,
+  "median_gain_vs_typical": 0.15117709995557993,
+  "median_translated_gain_vs_raw": 0.394473084570416,
+  "validation_n_train": 86
+}

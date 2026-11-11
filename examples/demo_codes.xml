@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<SESSION_INFO><start_time>2026-11-10T05:32:52.255Z</start_time><match>Demo match (synthetic coding)</match><video></video></SESSION_INFO>
+<ALL_INSTANCES>
+  <instance>
+    <ID>1</ID><start>0</start><end>4.06</end><code>Kick Ineffective</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>2</ID><start>31.08</start><end>41.08</end><code>Kick Ineffective</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>3</ID><start>68.09</start><end>78.09</end><code>Ground Ball Get</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>4</ID><start>105.1</start><end>115.1</end><code>Turnover</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>5</ID><start>142.12</start><end>152.12</end><code>Mark</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>6</ID><start>179.13</start><end>189.13</end><code>Turnover</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>7</ID><start>216.14</start><end>226.14</end><code>Kick Ineffective</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>8</ID><start>253.15</start><end>263.15</end><code>Contest Lost</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>9</ID><start>290.15</start><end>300.15</end><code>Kick Effective</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q1</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>10</ID><start>327.22</start><end>337.22</end><code>Ground Ball Get</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>11</ID><start>364.22</start><end>374.22</end><code>Spoil / 1%</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>12</ID><start>401.23</start><end>411.23</end><code>Pressure Act</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>neutral</text></label>
+  </instance>
+  <instance>
+    <ID>13</ID><start>438.24</start><end>448.24</end><code>Kick Effective</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>14</ID><start>475.25</start><end>485.25</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>15</ID><start>512.26</start><end>522.26</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>16</ID><start>549.27</start><end>559.27</end><code>Tackle</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>17</ID><start>586.27</start><end>596.27</end><code>Pressure Act</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>neutral</text></label>
+  </instance>
+  <instance>
+    <ID>18</ID><start>623.28</start><end>633.28</end><code>Kick Effective</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q2</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>19</ID><start>660.34</start><end>670.34</end><code>Ground Ball Get</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>20</ID><start>697.35</start><end>707.35</end><code>Mark</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>21</ID><start>734.36</start><end>744.36</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>22</ID><start>771.37</start><end>781.37</end><code>Kick Effective</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>23</ID><start>808.39</start><end>818.39</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>24</ID><start>845.4</start><end>855.4</end><code>Contest Won</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>25</ID><start>882.41</start><end>892.41</end><code>Kick Effective</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>26</ID><start>919.43</start><end>929.43</end><code>Tackle</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>27</ID><start>956.46</start><end>966.46</end><code>Contest Won</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q3</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>28</ID><start>993.5</start><end>1003.5</end><code>Contest Lost</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>29</ID><start>1030.52</start><end>1040.52</end><code>Ground Ball Get</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>30</ID><start>1067.53</start><end>1077.53</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>31</ID><start>1104.54</start><end>1114.54</end><code>Pressure Act</code>
+    <label><group>Player</group><text>Player A</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>neutral</text></label>
+  </instance>
+  <instance>
+    <ID>32</ID><start>1141.55</start><end>1151.55</end><code>Contest Won</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>33</ID><start>1178.57</start><end>1188.57</end><code>Tackle</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>34</ID><start>1215.57</start><end>1225.57</end><code>Turnover</code>
+    <label><group>Player</group><text>Player C</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+  </instance>
+  <instance>
+    <ID>35</ID><start>1252.59</start><end>1262.59</end><code>Positioning Good</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>good</text></label>
+  </instance>
+  <instance>
+    <ID>36</ID><start>1289.61</start><end>1299.61</end><code>Contest Lost</code>
+    <label><group>Player</group><text>Player B</text></label>
+    <label><group>Quarter</group><text>Q4</text></label>
+    <label><group>Outcome</group><text>bad</text></label>
+    <label><group>Note</group><text>Good lead, but check the second effort</text></label>
+  </instance>
+</ALL_INSTANCES>
+<ROWS>
+  <row><code>Kick Effective</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Kick Ineffective</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Handball Effective</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Handball Ineffective</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Contest Won</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Contest Lost</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Ground Ball Get</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Mark</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Pressure Act</code><R>23130</R><G>27499</G><B>34181</B></row>
+  <row><code>Tackle</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Spoil / 1%</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Turnover</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Positioning Good</code><R>11822</R><G>32125</G><B>20303</B></row>
+  <row><code>Positioning Poor</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Free Against</code><R>45746</R><G>14906</G><B>11822</B></row>
+  <row><code>Review Clip</code><R>23130</R><G>27499</G><B>34181</B></row>
+</ROWS>
+</file>

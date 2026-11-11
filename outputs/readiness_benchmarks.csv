@@ -1,0 +1,61 @@
+role,stat,label,n_established,n_other,est_p25,est_median,est_p75,other_median
+General defender,disposals,Disposals,11,32,17.0,21.4,22.0375,17.3
+General defender,kicks,Kicks,11,32,10.238888888888889,12.1,13.875,10.7
+General defender,handballs,Handballs,11,32,6.800000000000001,7.777777777777778,8.75,5.725
+General defender,marks,Marks,11,32,4.372222222222222,5.111111111111111,5.825,5.0
+General defender,tackles,Tackles,11,32,1.5,2.2,2.6625,2.2
+General defender,inside50s,Inside 50s,11,32,1.7013888888888888,2.0,2.2,1.9375
+General defender,rebound50s,Rebound 50s,11,32,2.8499999999999996,3.0,3.4000000000000004,3.175
+General defender,clearances,Clearances,11,32,0.6,0.875,1.1555555555555554,0.6
+General defender,hitouts,Hitouts,11,32,0.0,0.0,0.0,0.0
+General defender,goals,Goals,11,32,0.0,0.1,0.2111111111111111,0.0
+General forward,disposals,Disposals,14,20,10.625,12.75,14.025,12.675
+General forward,kicks,Kicks,14,20,6.75,7.714285714285714,8.787500000000001,7.485714285714286
+General forward,handballs,Handballs,14,20,3.607142857142857,4.0625,6.252777777777777,5.0
+General forward,marks,Marks,14,20,3.2333333333333334,3.4642857142857144,4.039285714285714,3.7
+General forward,tackles,Tackles,14,20,2.0166666666666666,2.6125,3.557142857142857,2.2
+General forward,inside50s,Inside 50s,14,20,1.6785714285714286,2.354166666666667,2.7375,2.05
+General forward,rebound50s,Rebound 50s,14,20,0.18214285714285713,0.4,0.5928571428571429,0.3333333333333333
+General forward,clearances,Clearances,14,20,0.6354166666666666,0.9444444444444444,1.3526785714285714,0.6
+General forward,hitouts,Hitouts,14,20,0.0,0.0,0.0,0.0
+General forward,goals,Goals,14,20,0.8857142857142857,1.2678571428571428,1.7999999999999998,0.9285714285714286
+Key defender,disposals,Disposals,3,12,10.555555555555555,11.0,12.35,14.4
+Key defender,kicks,Kicks,3,12,6.938888888888888,8.1,9.149999999999999,9.778571428571428
+Key defender,handballs,Handballs,3,12,3.2,3.5,3.9166666666666665,4.514285714285714
+Key defender,marks,Marks,3,12,3.7944444444444443,4.7,5.0,5.05
+Key defender,tackles,Tackles,3,12,1.4166666666666665,1.5,1.65,1.2999999999999998
+Key defender,inside50s,Inside 50s,3,12,1.15,1.3,1.35,1.35
+Key defender,rebound50s,Rebound 50s,3,12,2.1333333333333333,2.6,2.75,2.8
+Key defender,clearances,Clearances,3,12,0.37222222222222223,0.4444444444444444,0.6722222222222223,0.2
+Key defender,hitouts,Hitouts,3,12,0.6111111111111112,1.2222222222222223,2.661111111111111,0.0
+Key defender,goals,Goals,3,12,0.0,0.0,0.15,0.05
+Key forward,disposals,Disposals,3,4,10.242857142857144,12.2,12.8,11.4875
+Key forward,kicks,Kicks,3,4,7.557142857142857,8.4,8.45,7.3875
+Key forward,handballs,Handballs,3,4,2.6857142857142855,3.8,4.35,4.45
+Key forward,marks,Marks,3,4,3.428571428571429,4.0,4.6,5.05
+Key forward,tackles,Tackles,3,4,2.7642857142857142,3.1,3.35,1.45
+Key forward,inside50s,Inside 50s,3,4,1.8142857142857145,2.2,2.5,2.2875
+Key forward,rebound50s,Rebound 50s,3,4,0.0,0.0,0.2,0.225
+Key forward,clearances,Clearances,3,4,0.6142857142857143,0.8,0.9,1.0625
+Key forward,hitouts,Hitouts,3,4,0.7142857142857143,1.0,1.5,3.375
+Key forward,goals,Goals,3,4,1.6,1.8,1.8285714285714287,1.7375
+Midfielder,disposals,Disposals,8,28,13.05,16.05,22.62857142857143,19.325
+Midfielder,kicks,Kicks,8,28,6.5125,8.45,11.291666666666666,10.588888888888889
+Midfielder,handballs,Handballs,8,28,6.3375,7.5,9.241666666666667,7.65
+Midfielder,marks,Marks,8,28,1.75,2.5142857142857142,4.225,3.585714285714286
+Midfielder,tackles,Tackles,8,28,2.65,3.625,4.714285714285714,4.2
+Midfielder,inside50s,Inside 50s,8,28,1.7,2.75,3.942857142857143,3.1
+Midfielder,rebound50s,Rebound 50s,8,28,0.9375,1.25,1.375,1.1
+Midfielder,clearances,Clearances,8,28,1.6,3.475,4.550000000000001,3.1
+Midfielder,hitouts,Hitouts,8,28,0.0,0.0,0.0,0.0
+Midfielder,goals,Goals,8,28,0.15000000000000002,0.45,0.8142857142857143,0.35
+Ruck,disposals,Disposals,0,7,,,,11.0
+Ruck,kicks,Kicks,0,7,,,,5.2
+Ruck,handballs,Handballs,0,7,,,,4.6
+Ruck,marks,Marks,0,7,,,,2.7142857142857144
+Ruck,tackles,Tackles,0,7,,,,2.142857142857143
+Ruck,inside50s,Inside 50s,0,7,,,,1.7
+Ruck,rebound50s,Rebound 50s,0,7,,,,0.5
+Ruck,clearances,Clearances,0,7,,,,3.0
+Ruck,hitouts,Hitouts,0,7,,,,20.285714285714285
+Ruck,goals,Goals,0,7,,,,0.2
