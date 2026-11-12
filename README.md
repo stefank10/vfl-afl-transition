@@ -20,7 +20,10 @@ Data: 162,574 player-games (AFL 2015–26, VFL 2021–26). Earlier VFL seasons a
 
 **1. Translate.** From 973 player-seasons at both levels (572 players), a VFL disposal is worth
 about **0.65** of an AFL disposal (90% interval 0.64–0.66). Clearances shrink most (**0.42**);
-score involvements hold up best (**0.95**). Tested on the 131 players who debuted in 2024–26,
+score involvements hold up best (**0.95**). Clearances shrink mostly because of role: of 308 seasons
+where a listed player was a VFL midfielder (3+ clearances a game), those barely used at AFL centre
+bounces kept 23% of their clearances, against 65% for those given a full midfield role
+(`src/clearances.py`). Tested on the 131 players who debuted in 2024–26,
 with factors fitted only on earlier seasons, the blended estimate cut the typical error in
 predicting their first ten AFL games by **43%** against raw VFL numbers and **15%** against
 "a typical debutant in his role" (median across ten core stats). For rebound 50s and hitouts,
@@ -57,6 +60,7 @@ to come from vision and the development coach's eye.
 | Tidy | `src/load.py` | One row per player per game. Columns are found by suffix, so fitzRoy version changes don't break it. |
 | A | `src/translate.py` | Translation factor per stat from player-seasons at both levels (harmonic-mean game weights, player-bootstrap 90% intervals). Validated on 2024–26 debutants with factors fitted only on earlier seasons, against raw VFL numbers and "a typical debutant in his role". AFL-equivalent cards for every listed player in the latest VFL season. |
 | C | `src/readiness.py` | 2019–24 debutants (2021–24 in practice, given VFL coverage) with 4+ VFL games in the prior 400 days. "Established" = 20+ AFL games in the debut season and the next. Standardised differences (within VFL season), repeated cross-validated AUC, role benchmarks and an adaptation curve. |
+| Clearances | `src/clearances.py` | Role vs level: listed VFL midfielders grouped by AFL centre-bounce attendances. |
 | Charts | `src/figures.py` | Figures and the JSON the web page reads. |
 | Review | `src/review_pack.py` | Sportscode-style XML + agreed themes → a one-page pack per player and `development_log.csv`. |
 

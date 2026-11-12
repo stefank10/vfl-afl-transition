@@ -6,4 +6,5 @@ cd "$(dirname "$0")"
 python3 -m src.load
 python3 -m src.translate
 python3 -m src.readiness
+python3 -m src.clearances
 python3 -m src.figures
